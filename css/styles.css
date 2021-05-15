@@ -1,0 +1,19 @@
+.section-content {
+  max-width: 70rem;
+}
+
+a:hover {
+  color: #404040;
+}
+
+.project {
+  transition: 100ms linear;
+}
+
+.project:hover {
+  transform: scale(1.02);
+}
+
+.footer:hover {
+  background-color: #004687;
+}

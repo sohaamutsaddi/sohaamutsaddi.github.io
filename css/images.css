@@ -1,0 +1,17 @@
+.about-img {
+  width: 40%;
+  max-width: 220px;
+  min-width: 220px;
+}
+
+.about-bg {
+  height: 300px;
+  object-fit: cover;
+  object-position: 50% 98%;
+}
+
+.oliver {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

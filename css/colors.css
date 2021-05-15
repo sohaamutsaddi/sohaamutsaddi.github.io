@@ -1,0 +1,21 @@
+/* blue */
+.text-blue {
+  color: #004687;
+}
+
+.bg-blue {
+  background-color: #002a52;
+}
+
+/* grey */
+.text-grey {
+  color: #404040;
+}
+
+.text-lightblue {
+  color: rgb(85, 120, 160);
+}
+
+.bg-lightblue {
+  background-color: rgb(85, 120, 160);
+}
